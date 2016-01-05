@@ -1,0 +1,472 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#da24a4"
+        android:padding="16dp"
+        android:layout_margin="10dp"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:text="2072-POUSH {51} Rs.300 #9900"/>
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:padding="16dp">
+        <TextView
+            android:text="NAME"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="CREDIT"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#002334"
+            />
+        <TextView
+            android:text="DEBIT"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#002334"
+            />
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Rupesh K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            />
+        <TextView
+            android:text="125"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Shyam Sundar K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="200"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Dinesh K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+
+
+
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Narayan S."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+
+        <TextView
+            android:text="Ram K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Laxman K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Shiva K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Ram Prasad K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1cb407"
+        android:padding="10dp">
+        <TextView
+            android:text="Deepak K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03A9F4"
+        android:padding="10dp">
+        <TextView
+            android:text="Umesh K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="650"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03A9F4"
+        android:padding="10dp">
+        <TextView
+            android:text="Bibek K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="3125"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+
+
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03A9F4"
+        android:padding="10dp">
+        <TextView
+            android:text="Rupak K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="3300"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03A9F4"
+        android:padding="10dp">
+        <TextView
+            android:text="Suhan K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="4075"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7e282d30"
+        android:padding="10dp">
+        <TextView
+            android:text="Arjun K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="5675"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7e282d30"
+        android:padding="10dp">
+        <TextView
+            android:text="Amir K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="7475"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7e282d30"
+        android:padding="10dp">
+        <TextView
+            android:text="Sushil K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="7825"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7e282d30"
+        android:padding="10dp"
+        >
+
+        <TextView
+            android:text="Bishal K."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="9575"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7e282d30"
+        android:padding="10dp">
+        <TextView
+            android:text="Suraj S."
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="9775"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#aa000000"
+        android:padding="10dp">
+        <TextView
+            android:text="Total"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:text="53900"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:text="X"
+            android:layout_weight="1"
+            />
+    </TableRow>
+
+</TableLayout>
+</ScrollView>
+</LinearLayout>
